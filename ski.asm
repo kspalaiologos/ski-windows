@@ -14,8 +14,8 @@ include 'win32ax.inc'
 
 ; Node in memory:
 
-; ESI     ESI+4     ESI+8    ESI+12
-; v       v         v        v
+; ESI     ESI+4     ESI+8
+; v       v         v
 ; +--------------------------+
 ; | left  |  right  |  type  |
 ; +--------------------------+
